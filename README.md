@@ -17,15 +17,14 @@ Software Developer passionate about building innovative solutions and learning n
 ### Quick Links (Easy Copy-Paste)
 ```
 GitHub: https://github.com/Ruslan-Skira
-Email: skira.ruslan@gmail.com
+Email: skira.ruslan+github@gmail.com
 LinkedIn: https://linkedin.com/in/ruslan-skira
 ```
 
 ### Social Media & Professional Profiles
 - 🐙 **GitHub:** [github.com/Ruslan-Skira](https://github.com/Ruslan-Skira)
-- 📧 **Email:** [skira.ruslan@gmail.com](mailto:skira.ruslan@gmail.com)
+- 📧 **Email:** [skira.ruslan@gmail.com](mailto:skira.ruslan+github@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/ruslan-skira](https://linkedin.com/in/ruslan-skira)
-- 🐦 **X (Twitter):** [x.com/ruslan_skira](https://x.com/ruslan_skira)
 
 ---
 
@@ -33,7 +32,7 @@ LinkedIn: https://linkedin.com/in/ruslan-skira
 Copy and paste the following formatted text:
 
 **GitHub Profile:** https://github.com/Ruslan-Skira  
-**Email:** skira.ruslan@gmail.com  
+**Email:** skira.ruslan+github@gmail.com  
 **LinkedIn:** https://linkedin.com/in/ruslan-skira
 
 ---
