@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruslan Skira
 
-<!--
-**Ruslan-Skira/Ruslan-Skira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Software Developer passionate about building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslan-Skira&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+### Quick Links (Easy Copy-Paste)
+```
+GitHub: https://github.com/Ruslan-Skira
+Email: skira.ruslan@gmail.com
+LinkedIn: https://linkedin.com/in/ruslan-skira
+```
+
+### Social Media & Professional Profiles
+- 🐙 **GitHub:** [github.com/Ruslan-Skira](https://github.com/Ruslan-Skira)
+- 📧 **Email:** [skira.ruslan@gmail.com](mailto:skira.ruslan@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ruslan-skira](https://linkedin.com/in/ruslan-skira)
+- 🐦 **Twitter:** [twitter.com/ruslan_skira](https://twitter.com/ruslan_skira)
+
+---
+
+### 📝 For CV and Documents
+Copy and paste the following formatted text:
+
+**GitHub Profile:** https://github.com/Ruslan-Skira  
+**Email:** skira.ruslan@gmail.com  
+**LinkedIn:** https://linkedin.com/in/ruslan-skira
+
+---
+
+⭐️ From [Ruslan-Skira](https://github.com/Ruslan-Skira)
