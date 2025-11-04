@@ -10,7 +10,7 @@ Software Developer passionate about building innovative solutions and learning n
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslan-Skira&show_icons=true&theme=radical)
+![GitHub Stats for Ruslan-Skira](https://github-readme-stats.vercel.app/api?username=Ruslan-Skira&show_icons=true&theme=radical "Ruslan's GitHub stats")
 
 ## 📫 Connect with Me
 
@@ -25,7 +25,7 @@ LinkedIn: https://linkedin.com/in/ruslan-skira
 - 🐙 **GitHub:** [github.com/Ruslan-Skira](https://github.com/Ruslan-Skira)
 - 📧 **Email:** [skira.ruslan@gmail.com](mailto:skira.ruslan@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/ruslan-skira](https://linkedin.com/in/ruslan-skira)
-- 🐦 **Twitter:** [twitter.com/ruslan_skira](https://twitter.com/ruslan_skira)
+- 🐦 **X (Twitter):** [x.com/ruslan_skira](https://x.com/ruslan_skira)
 
 ---
 
