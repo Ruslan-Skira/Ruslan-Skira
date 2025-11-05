@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Ruslan Skira
+<img src="https://github.com/Ruslan-Skira/Ruslan-Skira/blob/main/Gemini_Generated_Image_6p4uui6p4uui6p4u.png" alt="Banner of a developer">
 
 ## 🚀 About Me
 Software Developer passionate about building innovative solutions and learning new technologies.
